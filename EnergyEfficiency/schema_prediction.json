@@ -1,0 +1,14 @@
+{	"SampleFileName": "InputFile.csv",
+	"NumberofColumns" : 8,
+	"ColName": {
+		"relative_compactness" : "FLOAT",
+		"surface_area" : "FLOAT",
+		"wall_area" : "FLOAT",
+		"roof_area" : "FLOAT",
+		"overall_height" : "FLOAT",
+		"orientation" : "INTEGER",
+		"glazing_area" : "FLOAT",
+		"glazing_area_distribution" : "INTEGER"
+
+	}
+}

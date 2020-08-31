@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+
+Name       : OpenSpace
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140131
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
+<link href="static/default.css" rel="stylesheet" type="text/css"  />
+<link href="static/fonts.css" rel="stylesheet" type="text/css"  />
+
+<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<style >
+		.control-label {
+    color: lightblue;
+    font-size: 16px;
+    width: 200px;
+}
+
+input[type=range]::-moz-range-thumb {
+  background-color: green;
+}
+
+
+	</style>
+
+</head>
+<body>
+<form method="post", action="{{url_for('predict')}}">
+<div id="header-wrapper" style="background-image:url({{ url_for('static', filename='images/banner.jpg') }})">
+
+	<div id="header" class="container">
+
+		<div id="menu">
+			<ul>
+				<li class="active"><a href="{{url_for('home')}}" accesskey="1" title="">Homepage</a></li>
+				<li><a href="bulkupload" accesskey="2" title="">Bulk Predicts</a></li>
+				<li><a href="retrain" accesskey="2" title="">Retrain Model </a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div style="width: 60%; float:left;"  >
+   <h1>Energy Prediction Data</h1>
+	<br/>
+       <label for="range_weight" class="control-label" style="">Relative Compactness: </label>
+
+				<input type="range" name="Relative_Compactness" class="slider" min="0.62" max="0.98" value="0.62" step="0.01">
+  <span  class="slider_label" style="color:lightblue"></span>
+
+
+	<br/>
+	<label for="range_weight" class="control-label">Surface Area : </label><input type="range" name="Surface_Area" class="slider" min="514.5" max="808.5" value="514.5" step="0.5">
+  <span  class="slider_label" style="color:lightblue"></span>
+	<br/>
+	<label for="range_weight" class="control-label">Wall Area: </label> <input type="range" name="Wall_Area" class="slider" min="245" max="416.5" value="216" step="0.5">
+  <span  class="slider_label" style="color:lightblue"></span>
+	<br/>
+	<label for="range_weight" class="control-label">Roof Area: </label> <input type="range" name="Roof_Area" class="slider" min="110" max="221" value="110.25" step="0.25">
+  <span  class="slider_label" style="color:lightblue"></span>
+	<br/>
+		<label for="range_weight" class="control-label">Overall Height: </label> <input type="range" name="Overall_Height" class="slider" min="4" max="7" value="4" step="1">
+   <span  class="slider_label" style="color:lightblue"></span>
+	<br/>
+		<label for="range_weight" class="control-label">Orientation: </label> <input type="range" name="Orientation" class="slider" min="2" max="5" value="2" step="1">
+  <span  class="slider_label" style="color:lightblue"></span>
+	<br/>
+	<label for="range_weight" class="control-label">Glazing Area: </label> <input type="range" name="Glazing_Area" class="slider" min="0.0" max="0.4" value="0.0" step="0.01">
+  <span  class="slider_label" style="color:lightblue"></span>
+	<br/>
+	<label for="range_weight" class="control-label" >Glazing Area Distribution: </label> <input type="range" name="Glazing_Area_Distribution" class="slider" min="0" max="5" value="0" step="1">
+  <span  class="slider_label" style="color:lightblue"></span>
+   <div class="form-row"> <button type="submit" style="padding: 10px 24px;">Predict</button></div>
+
+</div>
+	<h1 style="color:red">Energy Predicted Data</h1>
+	<br>
+   <br>
+<div id="prvalue" class="prcvalue" style="color:white">
+    {{ prediction_text }}
+</div>
+	<br>
+   <br>
+	<br>
+<div id="chartContainer" style="width: 40%; float:right">
+   #right content in there
+</div>
+
+
+</form>
+
+
+
+
+
+<div id="copyright" class="container">
+	<p>&copy; Untitled. All rights reserved. | Design by <a href="http://ineuron.ai" rel="nofollow">Nisikanta & Ruchik</a>.</p>
+</div>
+
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script>
+   $(function()
+{
+$('.slider').on('input change', function(){
+          $(this).next($('.slider_label')).html(this.value);
+        });
+      $('.slider_label').each(function(){
+          var value = $(this).prev().attr('value');
+          $(this).html(value);
+        });
+
+
+})
+</script>
+
+<script>
+
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+
+	animationEnabled: true,
+	theme: "light2", // "light1", "light2", "dark1", "dark2"
+	title:{
+		text: "Energy Efficiency"
+	},
+	axisY: {
+		title: "Eneygy Efficiency"
+	},
+	data: [{
+		type: "column",
+		showInLegend: true,
+		legendMarkerColor: "grey",
+				dataPoints: [
+			{ y: {{H}}, label: "Heating Load" },
+			{ y: {{C}},  label: "Cooling Load" },
+
+		]
+	}]
+});
+chart.render();
+
+}
+</script>
+</body>
+</html>

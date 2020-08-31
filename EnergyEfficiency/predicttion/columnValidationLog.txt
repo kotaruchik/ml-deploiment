@@ -1,0 +1,243 @@
+2020-08-15/14:01:28		Error Occured while moving the file :: <class 'OSError'>
+2020-08-15/14:09:29		Error Occured while moving the file :: <class 'OSError'>
+2020-08-15/14:11:58		Column Length Validation Started!!
+2020-08-15/14:11:58		Invalid Column Length for the file!!  :: MulticollinearityExample.csv
+2020-08-15/14:11:58		Column Length Validation Completed!!
+2020-08-15/14:26:01		Column Length Validation Started!!
+2020-08-15/14:26:01		Column Length Validation Completed!!
+2020-08-15/14:44:04		Column Length Validation Started!!
+2020-08-15/14:44:04		Column Length Validation Completed!!
+2020-08-15/15:19:58		Column Length Validation Started!!
+2020-08-15/15:19:58		Column Length Validation Completed!!
+2020-08-15/15:21:50		Column Length Validation Started!!
+2020-08-15/15:21:50		Column Length Validation Completed!!
+2020-08-15/15:23:22		Column Length Validation Started!!
+2020-08-15/15:23:22		Column Length Validation Completed!!
+2020-08-15/15:25:33		Column Length Validation Started!!
+2020-08-15/15:25:33		Column Length Validation Completed!!
+2020-08-15/15:26:42		Column Length Validation Started!!
+2020-08-15/15:26:42		Column Length Validation Completed!!
+2020-08-15/15:28:18		Column Length Validation Started!!
+2020-08-15/15:28:18		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/15:28:18		Column Length Validation Completed!!
+2020-08-15/15:44:26		Column Length Validation Started!!
+2020-08-15/15:44:26		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/15:44:26		Column Length Validation Completed!!
+2020-08-15/15:50:39		Column Length Validation Started!!
+2020-08-15/15:50:39		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/15:50:39		Column Length Validation Completed!!
+2020-08-15/15:54:02		Column Length Validation Started!!
+2020-08-15/15:54:02		Column Length Validation Completed!!
+2020-08-15/15:56:45		Column Length Validation Started!!
+2020-08-15/15:56:45		Column Length Validation Completed!!
+2020-08-15/15:58:30		Column Length Validation Started!!
+2020-08-15/15:58:30		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/15:58:30		Column Length Validation Completed!!
+2020-08-15/16:13:30		Column Length Validation Started!!
+2020-08-15/16:13:30		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/16:13:30		Column Length Validation Completed!!
+2020-08-15/16:47:01		Column Length Validation Started!!
+2020-08-15/16:47:01		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/16:47:01		Column Length Validation Completed!!
+2020-08-15/19:10:34		Column Length Validation Started!!
+2020-08-15/19:10:34		Invalid Column Length for the file!!  :: MulticollinearityExample.csv
+2020-08-15/19:10:34		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/19:10:34		Column Length Validation Completed!!
+2020-08-15/19:11:15		Column Length Validation Started!!
+2020-08-15/19:11:15		Invalid Column Length for the file!!  :: MulticollinearityExample.csv
+2020-08-15/19:11:15		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-15/19:11:15		Column Length Validation Completed!!
+2020-08-16/11:42:58		Column Length Validation Started!!
+2020-08-16/11:42:58		Column Length Validation Completed!!
+2020-08-16/11:45:13		Column Length Validation Started!!
+2020-08-16/11:45:13		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/11:45:13		Column Length Validation Completed!!
+2020-08-16/11:48:37		Column Length Validation Started!!
+2020-08-16/11:48:37		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/11:48:37		Column Length Validation Completed!!
+2020-08-16/18:25:01		Column Length Validation Started!!
+2020-08-16/18:25:01		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/18:25:01		Column Length Validation Completed!!
+2020-08-16/18:27:31		Column Length Validation Started!!
+2020-08-16/18:27:31		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/18:27:31		Column Length Validation Completed!!
+2020-08-16/18:32:44		Column Length Validation Started!!
+2020-08-16/18:32:44		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/18:32:44		Column Length Validation Completed!!
+2020-08-16/18:38:46		Column Length Validation Started!!
+2020-08-16/18:38:46		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/18:38:46		Column Length Validation Completed!!
+2020-08-16/18:49:58		Column Length Validation Started!!
+2020-08-16/18:49:58		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/18:49:58		Column Length Validation Completed!!
+2020-08-16/19:06:55		Column Length Validation Started!!
+2020-08-16/19:06:55		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:06:55		Column Length Validation Completed!!
+2020-08-16/19:11:07		Column Length Validation Started!!
+2020-08-16/19:11:07		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:11:07		Column Length Validation Completed!!
+2020-08-16/19:12:15		Column Length Validation Started!!
+2020-08-16/19:12:16		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:12:16		Column Length Validation Completed!!
+2020-08-16/19:14:00		Column Length Validation Started!!
+2020-08-16/19:14:00		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:14:00		Column Length Validation Completed!!
+2020-08-16/19:34:38		Column Length Validation Started!!
+2020-08-16/19:34:38		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:34:38		Column Length Validation Completed!!
+2020-08-16/19:37:50		Column Length Validation Started!!
+2020-08-16/19:37:50		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:37:50		Column Length Validation Completed!!
+2020-08-16/19:39:48		Column Length Validation Started!!
+2020-08-16/19:39:48		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:39:48		Column Length Validation Completed!!
+2020-08-16/19:40:59		Column Length Validation Started!!
+2020-08-16/19:40:59		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:40:59		Column Length Validation Completed!!
+2020-08-16/19:43:25		Column Length Validation Started!!
+2020-08-16/19:43:25		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:43:25		Column Length Validation Completed!!
+2020-08-16/19:44:31		Column Length Validation Started!!
+2020-08-16/19:44:31		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:44:31		Column Length Validation Completed!!
+2020-08-16/19:48:33		Column Length Validation Started!!
+2020-08-16/19:48:33		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:48:33		Column Length Validation Completed!!
+2020-08-16/19:50:04		Column Length Validation Started!!
+2020-08-16/19:50:04		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/19:50:04		Column Length Validation Completed!!
+2020-08-16/20:43:03		Column Length Validation Started!!
+2020-08-16/20:43:03		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-16/20:43:03		Column Length Validation Completed!!
+2020-08-17/15:47:16		Column Length Validation Started!!
+2020-08-17/15:47:16		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-17/15:47:16		Column Length Validation Completed!!
+2020-08-17/15:59:15		Column Length Validation Started!!
+2020-08-17/15:59:15		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-17/15:59:15		Column Length Validation Completed!!
+2020-08-17/16:04:53		Column Length Validation Started!!
+2020-08-17/16:04:53		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-17/16:04:53		Column Length Validation Completed!!
+2020-08-17/16:06:10		Column Length Validation Started!!
+2020-08-17/16:06:10		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-17/16:06:10		Column Length Validation Completed!!
+2020-08-17/17:03:16		Column Length Validation Started!!
+2020-08-17/17:03:16		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-17/17:03:16		Column Length Validation Completed!!
+2020-08-17/19:05:57		Column Length Validation Started!!
+2020-08-17/19:05:57		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-17/19:05:57		Column Length Validation Completed!!
+2020-08-17/19:06:04		Column Length Validation Started!!
+2020-08-17/19:06:04		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-17/19:06:04		Column Length Validation Completed!!
+2020-08-19/16:12:24		Column Length Validation Started!!
+2020-08-19/16:12:24		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-19/16:12:24		Column Length Validation Completed!!
+2020-08-19/16:24:32		Column Length Validation Started!!
+2020-08-19/16:24:32		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/16:24:32		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-19/16:24:32		Column Length Validation Completed!!
+2020-08-19/16:36:53		Column Length Validation Started!!
+2020-08-19/16:36:53		Error Occured:: No columns to parse from file
+2020-08-19/16:40:50		Column Length Validation Started!!
+2020-08-19/16:40:50		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/16:40:50		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-19/16:40:50		Column Length Validation Completed!!
+2020-08-19/16:43:02		Column Length Validation Started!!
+2020-08-19/16:43:02		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/16:43:02		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-19/16:43:02		Column Length Validation Completed!!
+2020-08-19/16:52:06		Column Length Validation Started!!
+2020-08-19/16:52:06		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-19/16:52:06		Column Length Validation Completed!!
+2020-08-19/17:13:23		Column Length Validation Started!!
+2020-08-19/17:13:23		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/17:13:23		Invalid Column Length for the file!!  :: prediction.csv
+2020-08-19/17:13:23		Column Length Validation Completed!!
+2020-08-19/17:18:45		Column Length Validation Started!!
+2020-08-19/17:18:45		Column Length Validation Completed!!
+2020-08-19/17:21:09		Column Length Validation Started!!
+2020-08-19/17:21:09		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/17:21:09		Column Length Validation Completed!!
+2020-08-19/17:27:30		Column Length Validation Started!!
+2020-08-19/17:27:30		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/17:27:30		Column Length Validation Completed!!
+2020-08-19/17:41:48		Column Length Validation Started!!
+2020-08-19/17:41:48		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/17:41:48		Column Length Validation Completed!!
+2020-08-19/17:48:02		Column Length Validation Started!!
+2020-08-19/17:48:02		Column Length Validation Completed!!
+2020-08-19/17:54:40		Column Length Validation Started!!
+2020-08-19/17:54:40		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/17:54:40		Column Length Validation Completed!!
+2020-08-19/17:56:49		Column Length Validation Started!!
+2020-08-19/17:56:49		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/17:56:49		Column Length Validation Completed!!
+2020-08-19/21:08:50		Column Length Validation Started!!
+2020-08-19/21:08:50		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/21:08:50		Column Length Validation Completed!!
+2020-08-19/21:15:51		Column Length Validation Started!!
+2020-08-19/21:15:51		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-19/21:15:51		Column Length Validation Completed!!
+2020-08-27/19:02:36		Column Length Validation Started!!
+2020-08-27/19:02:36		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-27/19:02:36		Column Length Validation Completed!!
+2020-08-27/19:06:39		Column Length Validation Started!!
+2020-08-27/19:06:39		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-27/19:06:39		Column Length Validation Completed!!
+2020-08-27/19:09:43		Column Length Validation Started!!
+2020-08-27/19:09:43		Error Occured:: No columns to parse from file
+2020-08-27/19:29:42		Column Length Validation Started!!
+2020-08-27/19:29:42		Error Occured:: No columns to parse from file
+2020-08-28/07:54:13		Column Length Validation Started!!
+2020-08-28/07:54:13		Error Occured:: No columns to parse from file
+2020-08-28/08:02:23		Column Length Validation Started!!
+2020-08-28/08:02:23		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-28/08:02:23		Column Length Validation Completed!!
+2020-08-28/08:04:41		Column Length Validation Started!!
+2020-08-28/08:04:41		Invalid Column Length for the file!!  :: InputFile.csv
+2020-08-28/08:04:41		Column Length Validation Completed!!
+2020-08-28/08:08:26		Column Length Validation Started!!
+2020-08-28/08:08:26		Column Length Validation Completed!!
+2020-08-28/08:09:13		Column Length Validation Started!!
+2020-08-28/08:09:13		Column Length Validation Completed!!
+2020-08-28/08:12:49		Column Length Validation Started!!
+2020-08-28/08:12:49		Column Length Validation Completed!!
+2020-08-28/08:16:04		Column Length Validation Started!!
+2020-08-28/08:16:04		Column Length Validation Completed!!
+2020-08-28/08:25:48		Column Length Validation Started!!
+2020-08-28/08:25:48		Column Length Validation Completed!!
+2020-08-28/22:04:22		Column Length Validation Started!!
+2020-08-28/22:04:22		Column Length Validation Completed!!
+2020-08-28/22:06:36		Column Length Validation Started!!
+2020-08-28/22:06:36		Column Length Validation Completed!!
+2020-08-28/22:07:43		Column Length Validation Started!!
+2020-08-28/22:07:43		Column Length Validation Completed!!
+2020-08-28/22:08:06		Column Length Validation Started!!
+2020-08-28/22:08:06		Column Length Validation Completed!!
+2020-08-28/22:18:23		Column Length Validation Started!!
+2020-08-28/22:18:23		Column Length Validation Completed!!
+2020-08-28/22:20:48		Column Length Validation Started!!
+2020-08-28/22:20:48		Column Length Validation Completed!!
+2020-08-29/07:51:58		Column Length Validation Started!!
+2020-08-29/07:51:58		Column Length Validation Completed!!
+2020-08-29/07:52:14		Column Length Validation Started!!
+2020-08-29/07:52:14		Column Length Validation Completed!!
+2020-08-29/07:53:12		Column Length Validation Started!!
+2020-08-29/07:53:12		Column Length Validation Completed!!
+2020-08-29/07:55:46		Column Length Validation Started!!
+2020-08-29/07:55:46		Column Length Validation Completed!!
+2020-08-29/07:56:30		Column Length Validation Started!!
+2020-08-29/07:56:30		Column Length Validation Completed!!
+2020-08-29/08:56:47		Column Length Validation Started!!
+2020-08-29/08:56:47		Column Length Validation Completed!!
+2020-08-29/08:57:15		Column Length Validation Started!!
+2020-08-29/08:57:16		Column Length Validation Completed!!
+2020-08-31/18:49:06		Column Length Validation Started!!
+2020-08-31/18:49:06		Column Length Validation Completed!!
+2020-08-31/19:24:51		Column Length Validation Started!!
+2020-08-31/19:24:51		Column Length Validation Completed!!
+2020-08-31/19:25:17		Column Length Validation Started!!
+2020-08-31/19:25:17		Column Length Validation Completed!!
+2020-08-31/19:35:13		Column Length Validation Started!!
+2020-08-31/19:35:13		Column Length Validation Completed!!
